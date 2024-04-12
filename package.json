@@ -1,0 +1,16 @@
+{
+  "name": "streaming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node-dev --respawn --transpile-only ./index2.ts"
+  },
+  "keywords": [],
+  "author": "JoJo",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.5.9"
+  }
+}
